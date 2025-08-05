@@ -1,1 +1,1 @@
-# Reddit-Clone-Full-Featured-Social-Platform
+This is a full-stack Reddit-inspired social platform built using Java Spring Boot (backend) and React (frontend). It allows users to create and interact with content, message friends, join group chats, and even make voice calls. It mirrors key Reddit functionality but also adds more real-time features like private messaging, media sharing, and live voice chat.
